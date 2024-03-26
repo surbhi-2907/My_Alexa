@@ -1,7 +1,7 @@
-Install all the modules by running all commands on terminal as mentioned below -
+Install all the modules by running all commands on terminal as mentioned below - <br><br>
 
-pip install SpeechRecognition
-pip install pyttsx3
-pip install pywhatkit
-pip install pyaudio
-pip install pyjokes
+pip install SpeechRecognition <br>
+pip install pyttsx3 <br>
+pip install pywhatkit <br>
+pip install pyaudio <br>
+pip install pyjokes <br>
