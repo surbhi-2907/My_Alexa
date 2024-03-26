@@ -49,7 +49,7 @@ def run_alexa():
     elif 'joke' in command:
         talk(pyjokes.get_joke())
     elif 'hello' in command:
-        talk('Hi!')
+        talk('Hello User!')
     elif 'how are you doing' in command:
         talk('I am doing good! Thanks for asking!')
     elif 'bye' in command:
